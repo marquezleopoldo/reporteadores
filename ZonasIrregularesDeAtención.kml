@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Zonas Irregulares de Atención</name>
+    <description/>
+    <Style id="poly-E65100-2000-255-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff0051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-E65100-2000-255-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff0051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-E65100-2000-255">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-E65100-2000-255-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-E65100-2000-255-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Zonas Irregulares de Atención</name>
+      <Placemark>
+        <name>PRADOS DE LA LUZ</name>
+        <description>REGULARIZACIÓN 2017</description>
+        <styleUrl>#poly-E65100-2000-255</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -101.592464,21.1144,0
+                -101.593876,21.112746,0
+                -101.594565,21.111366,0
+                -101.593007,21.110765,0
+                -101.590703,21.113536,0
+                -101.592464,21.1144,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>ARBOLEDAS DE LA SELVA</name>
+        <description>REGULARIZACIÓN 2017</description>
+        <styleUrl>#poly-E65100-2000-255</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -101.633631,21.176349,0
+                -101.633874,21.176476,0
+                -101.634018,21.176313,0
+                -101.63384,21.176002,0
+                -101.633786,21.175639,0
+                -101.632553,21.175265,0
+                -101.63246,21.175596,0
+                -101.631826,21.175478,0
+                -101.630938,21.176454,0
+                -101.632445,21.176715,0
+                -101.632696,21.176018,0
+                -101.632863,21.176228,0
+                -101.633264,21.176336,0
+                -101.633631,21.176349,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>AMPLIACIÓN EL CARMEN</name>
+        <description>REGULARIZACIÓN 2017</description>
+        <styleUrl>#poly-E65100-2000-255</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -101.596121,21.117308,0
+                -101.59646,21.116086,0
+                -101.597431,21.115348,0
+                -101.596776,21.114232,0
+                -101.595173,21.116339,0
+                -101.596121,21.117308,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>CRUZ DE LA SOLEDAD</name>
+        <description>REGULARIZACIÓN 2017</description>
+        <styleUrl>#poly-E65100-2000-255</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -101.736108,21.148141,0
+                -101.736094,21.147972,0
+                -101.735935,21.147635,0
+                -101.735967,21.147414,0
+                -101.735369,21.147126,0
+                -101.73477,21.147039,0
+                -101.734697,21.14789,0
+                -101.734899,21.147921,0
+                -101.735028,21.147794,0
+                -101.735274,21.147898,0
+                -101.735439,21.147636,0
+                -101.736108,21.148141,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>PASEO DE LOS LAURELES</name>
+        <description>REGULARIZACIÓN 2017</description>
+        <styleUrl>#poly-E65100-2000-255</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -101.747475,21.191168,0
+                -101.746526,21.189188,0
+                -101.741466,21.191421,0
+                -101.742189,21.194074,0
+                -101.747475,21.191168,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>PRIVADA ROSALES</name>
+        <description>REGULARIZACIÓN 2017</description>
+        <styleUrl>#poly-E65100-2000-255</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -101.603742,21.113382,0
+                -101.603121,21.113814,0
+                -101.60407,21.114625,0
+                -101.604668,21.114109,0
+                -101.603742,21.113382,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>VALLE DE LOS MILAGROS</name>
+        <description>REGULARIZACIÓN 2017</description>
+        <styleUrl>#poly-E65100-2000-255</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -101.76504,21.094979,0
+                -101.765368,21.092753,0
+                -101.764024,21.092585,0
+                -101.763843,21.093762,0
+                -101.763634,21.095037,0
+                -101.76504,21.094979,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>LA SELVA</name>
+        <description>REGULARIZACIÓN 2017</description>
+        <styleUrl>#poly-E65100-2000-255</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -101.63087,21.17641,0
+                -101.63322,21.173903,0
+                -101.632441,21.173671,0
+                -101.632113,21.173997,0
+                -101.630407,21.176125,0
+                -101.63087,21.17641,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>SAN JUAN</name>
+        <description>REGULARIZACIÓN 2017</description>
+        <styleUrl>#poly-E65100-2000-255</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -101.580331,21.106546,0
+                -101.582581,21.10305,0
+                -101.580932,21.10227,0
+                -101.578428,21.106067,0
+                -101.580331,21.106546,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>LA TINAJA</name>
+        <description>REGULARIZAZIÓN 2017</description>
+        <styleUrl>#poly-E65100-2000-255</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -101.593545,21.116031,0
+                -101.591761,21.11483,0
+                -101.588599,21.118623,0
+                -101.590993,21.120414,0
+                -101.593545,21.116031,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bibliotecas</name>
+    <description/>
+    <Style id="icon-1526-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1526-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1526-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1526-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1526-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Bibliotecas</name>
+      <Placemark>
+        <name>bibliotecas.82</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0069D   <br>- NOMBRE_CT: BIBLIOTECA BENITO JUAREZ ESCUELA SECUNDARIA   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 1   <br>- DEP_NORMT: NE   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 24   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD VICENTE VALTIERRA Y AVENIDA MAESTROS S/N   <br>- COLONIA: COECILLO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37460   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1101042H   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66427   <br>- LATITUD: 21.13106   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130819091000.000   <br>- NOMBRE_DIR: ELEUTERIO MARTINEZ LARA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66427,21.13106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.83</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0069D   <br>- NOMBRE_CT: BIBLIOTECA BENITO JUAREZ ESCUELA SECUNDARIA   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 1   <br>- DEP_NORMT: NE   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 24   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD VICENTE VALTIERRA Y AVENIDA MAESTROS S/N   <br>- COLONIA: COECILLO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37460   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1101042H   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66427   <br>- LATITUD: 21.13106   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130819091000.000   <br>- NOMBRE_DIR: ELEUTERIO MARTINEZ LARA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66427,21.13106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.84</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0070T   <br>- NOMBRE_CT: BIBLIOTECA DEL CENTRO DE ESTUDIOS TECNICOS INDUSTRIAL Y SERVICIOS NUM. 77   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 0   <br>- DEP_NORMT: TI   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 11   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: ETA S/N ESQUINA OMEGA   <br>- COLONIA: FRACCIONAMIENTO INDUSTRIAL DELTA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37260   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1101131B   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.61987   <br>- LATITUD: 21.08613   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20111018120500.000   <br>- NOMBRE_DIR: ELEUTERIO CICILIANO AVENDAÑO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.61987,21.08613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.85</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0070T   <br>- NOMBRE_CT: BIBLIOTECA DEL CENTRO DE ESTUDIOS TECNICOS INDUSTRIAL Y SERVICIOS NUM. 77   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 0   <br>- DEP_NORMT: TI   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 11   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: ETA S/N ESQUINA OMEGA   <br>- COLONIA: FRACCIONAMIENTO INDUSTRIAL DELTA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37260   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1101131B   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.61987   <br>- LATITUD: 21.08613   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20111018120500.000   <br>- NOMBRE_DIR: ELEUTERIO CICILIANO AVENDAÑO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.61987,21.08613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.86</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0071S   <br>- NOMBRE_CT: BIBLIOTECA GENERAL LAZARO CARDENAS DE LA SECUNDARIA TECNICA NUM. 1   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 1   <br>- DEP_NORMT: NE   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 24   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD ADOLFO LOPEZ MATEOS S/N   <br>- COLONIA: ZONA CENTRO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1107852G   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68339   <br>- LATITUD: 21.12556   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20110927115900.000   <br>- NOMBRE_DIR: IGNACIO PADILLA VALENCIA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68339,21.12556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.87</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0071S   <br>- NOMBRE_CT: BIBLIOTECA GENERAL LAZARO CARDENAS DE LA SECUNDARIA TECNICA NUM. 1   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 1   <br>- DEP_NORMT: NE   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 24   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD ADOLFO LOPEZ MATEOS S/N   <br>- COLONIA: ZONA CENTRO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1107852G   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68339   <br>- LATITUD: 21.12556   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20110927115900.000   <br>- NOMBRE_DIR: IGNACIO PADILLA VALENCIA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68339,21.12556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.88</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0072R   <br>- NOMBRE_CT: BIBLIOTECA DEL CENTRO DE ESTUDIOS TECNICOS INDUSTRIAL Y SERVICIOS NUM. 21   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 0   <br>- DEP_NORMT: TI   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 11   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: DIEGO DE HINOJOSA S/N   <br>- COLONIA: FRACCIONAMIENTO LAS TROJES   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1101141A   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66662   <br>- LATITUD: 21.13316   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: LORENZO OTAMENDI DELGADILLO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66662,21.13316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.89</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0072R   <br>- NOMBRE_CT: BIBLIOTECA DEL CENTRO DE ESTUDIOS TECNICOS INDUSTRIAL Y SERVICIOS NUM. 21   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 0   <br>- DEP_NORMT: TI   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 11   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: DIEGO DE HINOJOSA S/N   <br>- COLONIA: FRACCIONAMIENTO LAS TROJES   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1101141A   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66662   <br>- LATITUD: 21.13316   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: LORENZO OTAMENDI DELGADILLO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66662,21.13316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.90</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0074P   <br>- NOMBRE_CT: BIBLIOTECA DE LA ESCUELA SECUNDARIA LIC. TIMOTEO LOZANO M.   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NE   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 21   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD HERMANOS ALDAMA ESQUINA TIMOTEO LOZANO NUM. 1005   <br>- COLONIA: SAN MIGUEL   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1108054J   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68005   <br>- LATITUD: 21.09223   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20111012135200.000   <br>- NOMBRE_DIR: JOSE LUIS RODRIGUEZ T.         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68005,21.09223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.91</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0078L   <br>- NOMBRE_CT: BIBLIOTECA DEL COMPLEJO EDUCATIVO HISPANO AMERICANO   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD FELIPE BENITEZ MARTINEZ CHAPA S/N   <br>- COLONIA: REAL DEL CAMPESTRE   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37120   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1114434E   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.6916   <br>- LATITUD: 21.16455   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130510090000.000   <br>- NOMBRE_DIR: JUAN ANTONIO HURTADO ALVAREZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.6916,21.16455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.92</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0078L   <br>- NOMBRE_CT: BIBLIOTECA DEL COMPLEJO EDUCATIVO HISPANO AMERICANO   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD FELIPE BENITEZ MARTINEZ CHAPA S/N   <br>- COLONIA: REAL DEL CAMPESTRE   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37120   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1114434E   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.6916   <br>- LATITUD: 21.16455   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130510090000.000   <br>- NOMBRE_DIR: JUAN ANTONIO HURTADO ALVAREZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.6916,21.16455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.93</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0080Z   <br>- NOMBRE_CT: BIBLIOTECA DEL COLEGIO MIRAFLORES   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD J. MANUEL LOPEZ SANABRIA NUM. 220   <br>- COLONIA: LOMAS DEL CAMPESTRE   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37120   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1114936G   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.70179   <br>- LATITUD: 21.15283   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130819090100.000   <br>- NOMBRE_DIR: ERNESTO FERNANDEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.70179,21.15283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.94</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0080Z   <br>- NOMBRE_CT: BIBLIOTECA DEL COLEGIO MIRAFLORES   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD J. MANUEL LOPEZ SANABRIA NUM. 220   <br>- COLONIA: LOMAS DEL CAMPESTRE   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37120   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1114936G   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.70179   <br>- LATITUD: 21.15283   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130819090100.000   <br>- NOMBRE_DIR: ERNESTO FERNANDEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.70179,21.15283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.95</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0081Z   <br>- NOMBRE_CT: BIBLIOTECA DEL INSTITUTO IGNACIO ALLENDE   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 6   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: 5 DE MAYO NUM. 407   <br>- COLONIA: ZONA CENTRO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100578G   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68004   <br>- LATITUD: 21.12683   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: AGUSTIN RODRIGUEZ ROJAS         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende los Niveles de Secundaria y Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68004,21.12683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.96</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0083X   <br>- NOMBRE_CT: BIBLIOTECA DEL INSTITUTO JASSA, A. C.   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: SAN SEBASTIAN NUM. 505   <br>- COLONIA: LA MARTINICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37500   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100580C   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66259   <br>- LATITUD: 21.11299   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20131212111200.000   <br>- NOMBRE_DIR: ROSANA DEL SOCORRO GUISAR SUAREZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66259,21.11299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.97</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0083X   <br>- NOMBRE_CT: BIBLIOTECA DEL INSTITUTO JASSA, A. C.   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: SAN SEBASTIAN NUM. 505   <br>- COLONIA: LA MARTINICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37500   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100580C   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66259   <br>- LATITUD: 21.11299   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20131212111200.000   <br>- NOMBRE_DIR: ROSANA DEL SOCORRO GUISAR SUAREZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66259,21.11299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.98</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0084W   <br>- NOMBRE_CT: BIBLIOTECA DEL COLEGIO HIDALGO   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 4   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD IBARRILLA NUM. 802   <br>- COLONIA: ARBOLEDAS DE IBARRILLA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37200   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100581B   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.6603   <br>- LATITUD: 21.16642   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130502135300.000   <br>- NOMBRE_DIR: FLORENTINA SOLIS ZAVALA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende los Niveles de Primaria y Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.6603,21.16642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.99</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0085V   <br>- NOMBRE_CT: BIBLIOTECA GENERAL ANAYA ESCUELA SECUNDARIA   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: INDEPENDENCIA NUM. 202 ESQUINA DIAZ MIRON, EN EL CENTRO   <br>- COLONIA: ZONA CENTRO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100582A   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68114   <br>- LATITUD: 21.11868   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: GLORIA MARTHA ANAYA H.         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68114,21.11868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.100</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0085V   <br>- NOMBRE_CT: BIBLIOTECA GENERAL ANAYA ESCUELA SECUNDARIA   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: INDEPENDENCIA NUM. 202 ESQUINA DIAZ MIRON, EN EL CENTRO   <br>- COLONIA: ZONA CENTRO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100582A   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68114   <br>- LATITUD: 21.11868   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: GLORIA MARTHA ANAYA H.         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68114,21.11868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.101</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0086U   <br>- NOMBRE_CT: BIBLIOTECA DEL INSTITUTO A. MAYLLEN   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 7   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AQUILES SERDAN NUM. 221   <br>- COLONIA: ZONA CENTRO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100583K   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68452   <br>- LATITUD: 21.12567   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20131212085100.000   <br>- NOMBRE_DIR: MARTHA AVILA VARGAS         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende los Niveles de Primaria, Secundaria y Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68452,21.12567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.102</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0086U   <br>- NOMBRE_CT: BIBLIOTECA DEL INSTITUTO A. MAYLLEN   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 7   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AQUILES SERDAN NUM. 221   <br>- COLONIA: ZONA CENTRO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100583K   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68452   <br>- LATITUD: 21.12567   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20131212085100.000   <br>- NOMBRE_DIR: MARTHA AVILA VARGAS         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende los Niveles de Primaria, Secundaria y Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68452,21.12567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.103</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0087T   <br>- NOMBRE_CT: BIBLIOTECA DEL INSTITUTO VALVERDE Y TELLEZ   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BERNARDO CHAVEZ NUM. 406 J. JESUS GONZALEZ   <br>- COLONIA: LOS FRESNOS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37390   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1114878X   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.69113   <br>- LATITUD: 21.10608   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20120118125000.000   <br>- NOMBRE_DIR: JOSEFINA GONZALEZ CABRERA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.69113,21.10608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.104</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0088S   <br>- NOMBRE_CT: BIBLIOTECA DEL INSTITUTO MORELOS   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 4   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: TRESGUERRAS NUM. 440   <br>- COLONIA: BARRIO ARRIBA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100585X   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.67558   <br>- LATITUD: 21.12465   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: J. GUADALUPE PLASCENCIA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende los Niveles de Primaria y Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.67558,21.12465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.105</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0088S   <br>- NOMBRE_CT: BIBLIOTECA DEL INSTITUTO MORELOS   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 4   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: TRESGUERRAS NUM. 440   <br>- COLONIA: BARRIO ARRIBA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100585X   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.67558   <br>- LATITUD: 21.12465   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: J. GUADALUPE PLASCENCIA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende los Niveles de Primaria y Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.67558,21.12465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.106</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0089R   <br>- NOMBRE_CT: BIBLIOTECA DE LA ESCUELA COMERCIAL BANCARIA DE LEON   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 6   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AGUSTIN MELGAR NUM. 102 ESQUINA BOULEVARD HIDALGO   <br>- COLONIA: HEROES DE CHAPULTEPEC   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37190   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100586H   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.686   <br>- LATITUD: 21.0967   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: JOSE DE JESUS ZUÑIGA MORALES         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende los Niveles de Secundaria y Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.686,21.0967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.107</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0089R   <br>- NOMBRE_CT: BIBLIOTECA DE LA ESCUELA COMERCIAL BANCARIA DE LEON   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 6   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AGUSTIN MELGAR NUM. 102 ESQUINA BOULEVARD HIDALGO   <br>- COLONIA: HEROES DE CHAPULTEPEC   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37190   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100586H   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.686   <br>- LATITUD: 21.0967   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: JOSE DE JESUS ZUÑIGA MORALES         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende los Niveles de Secundaria y Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.686,21.0967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.108</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0090G   <br>- NOMBRE_CT: BIBLIOTECA DEL INSTITUTO FRAY BARTOLOME DE LAS CASAS   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD JUAN JOSE TORRES LANDA NUM. 504 ORIENTE   <br>- COLONIA: SAN MIGUEL   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37390   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1114880E   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68391   <br>- LATITUD: 21.1013   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130510090900.000   <br>- NOMBRE_DIR: BALTAZAR GOMEZ QUEZADA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68391,21.1013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.109</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0092E   <br>- NOMBRE_CT: BIBLIOTECA MARIA GUADALUPE RIVAS CONDE- INSTITUTO TEPEYAC   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: TRESGUERRAS NUM. 113-115   <br>- COLONIA: OBREGON   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100589E   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.67915   <br>- LATITUD: 21.12627   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130715145200.000   <br>- NOMBRE_DIR: MARGARITA MORALES M.         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.67915,21.12627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.110</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0092E   <br>- NOMBRE_CT: BIBLIOTECA MARIA GUADALUPE RIVAS CONDE- INSTITUTO TEPEYAC   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: TRESGUERRAS NUM. 113-115   <br>- COLONIA: OBREGON   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100589E   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.67915   <br>- LATITUD: 21.12627   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130715145200.000   <br>- NOMBRE_DIR: MARGARITA MORALES M.         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.67915,21.12627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.111</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0095B   <br>- NOMBRE_CT: BIBLIOTECA DE LA ESCUELA LIBERTAD SECCION PIO XII   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 4   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: ACAPULCO NUM. 501   <br>- COLONIA: EL COECILLO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37260   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100592K   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66597   <br>- LATITUD: 21.12727   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: HORACIO DIAZ INFANTE M.         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende los Niveles de Primaria y Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66597,21.12727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.112</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0095B   <br>- NOMBRE_CT: BIBLIOTECA DE LA ESCUELA LIBERTAD SECCION PIO XII   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 4   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: ACAPULCO NUM. 501   <br>- COLONIA: EL COECILLO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37260   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100592K   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66597   <br>- LATITUD: 21.12727   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: HORACIO DIAZ INFANTE M.         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende los Niveles de Primaria y Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66597,21.12727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.114</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0098Z   <br>- NOMBRE_CT: BIBLIOTECA EMPERADOR CUAUHTEMOC   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: DONATO GUERRA NUM. 114   <br>- COLONIA: ZONA DE ORO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100595H   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.67918   <br>- LATITUD: 21.12204   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20121008113800.000   <br>- NOMBRE_DIR: MA. LUZ QUIROZ DE HIDALGO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.67918,21.12204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.115</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0099Y   <br>- NOMBRE_CT: BIBLIOTECA DEL COLEGIO PATRIA   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AVENIDA INSURGENTES NUM. 727 FRENTE A LA CALLE CHOPO   <br>- COLONIA: OBREGON   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37320   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1114933J   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68623   <br>- LATITUD: 21.13836   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20111018131100.000   <br>- NOMBRE_DIR: RUBEN VARGAS BARAJAS         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68623,21.13836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.116</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0099Y   <br>- NOMBRE_CT: BIBLIOTECA DEL COLEGIO PATRIA   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AVENIDA INSURGENTES NUM. 727 FRENTE A LA CALLE CHOPO   <br>- COLONIA: OBREGON   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37320   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1114933J   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68623   <br>- LATITUD: 21.13836   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20111018131100.000   <br>- NOMBRE_DIR: RUBEN VARGAS BARAJAS         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68623,21.13836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.117</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0101W   <br>- NOMBRE_CT: BIBLIOTECA RAFAEL M. SOTO-INSTITUTO LEONES   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: FRAY DANIEL MIRELES NUM. 801   <br>- COLONIA: LA CANDELARIA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37260   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100598E   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66016   <br>- LATITUD: 21.12638   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20140204110600.000   <br>- NOMBRE_DIR: J.SANTOS PEREZ CASTILLO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66016,21.12638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.118</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0102V   <br>- NOMBRE_CT: BIBLIOTECA ESCOLAR INTITUTO LUX   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD P. JORGE VERTIZ CAMPERO NUM. 1618   <br>- COLONIA: PREDIO URBANO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37280   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100599D   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.62976   <br>- LATITUD: 21.12082   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130718141600.000   <br>- NOMBRE_DIR: RAQUEL PRECOMA MERLO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.62976,21.12082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.119</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0102V   <br>- NOMBRE_CT: BIBLIOTECA ESCOLAR INTITUTO LUX   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD P. JORGE VERTIZ CAMPERO NUM. 1618   <br>- COLONIA: PREDIO URBANO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37280   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100599D   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.62976   <br>- LATITUD: 21.12082   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130718141600.000   <br>- NOMBRE_DIR: RAQUEL PRECOMA MERLO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.62976,21.12082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.120</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0103U   <br>- NOMBRE_CT: BIBLIOTECA CENTRAL   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AVENIDA UNIVERSIDAD S/N   <br>- COLONIA: M   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37150   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100600C   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.71102   <br>- LATITUD: 21.15252   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: PALEMON HERNANDEZ LOPEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.71102,21.15252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.121</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0103U   <br>- NOMBRE_CT: BIBLIOTECA CENTRAL   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AVENIDA UNIVERSIDAD S/N   <br>- COLONIA: M   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37150   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100600C   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.71102   <br>- LATITUD: 21.15252   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: PALEMON HERNANDEZ LOPEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.71102,21.15252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.122</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0106R   <br>- NOMBRE_CT: BIBLIOTECA ATANASIO HERNANDEZ ROMO   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: RIO BRAVO NUM. 710   <br>- COLONIA: SAN NICOLAS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37480   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100603K   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.67884   <br>- LATITUD: 21.11016   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: RAUL PAZ HERNANDEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.67884,21.11016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.123</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0106R   <br>- NOMBRE_CT: BIBLIOTECA ATANASIO HERNANDEZ ROMO   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 2   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: RIO BRAVO NUM. 710   <br>- COLONIA: SAN NICOLAS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37480   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100603K   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.67884   <br>- LATITUD: 21.11016   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: RAUL PAZ HERNANDEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Secundaria]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.67884,21.11016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.174</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0145T   <br>- NOMBRE_CT: BIBLIOTECA DE LA PREPARATORIA DE LEON UNIVERSIDAD DE GUANAJUATO   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: HERMANOS ALDAMA S/N Y BOULEVARD TORRES LANDA   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1116666X   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.67815   <br>- LATITUD: 21.1024   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19950324000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: JOSE SERGIO MORA CAZARES         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.67815,21.1024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.175</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0145T   <br>- NOMBRE_CT: BIBLIOTECA DE LA PREPARATORIA DE LEON UNIVERSIDAD DE GUANAJUATO   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: HERMANOS ALDAMA S/N Y BOULEVARD TORRES LANDA   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1116666X   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.67815   <br>- LATITUD: 21.1024   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19950324000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: JOSE SERGIO MORA CAZARES         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.67815,21.1024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.176</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0146S   <br>- NOMBRE_CT: BIBLIOTECA DE LA PREPARATORIA NOCTURNA DE LEON UNIVERSIDAD DE GUANAJUATO   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD PUENTE MILENIO NUM. 1001   <br>- COLONIA: FRACCIONAMIENTO DEL PREDIO DE SAN CARLOS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37670   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1116667H   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.571435   <br>- LATITUD: 21.060352   <br>- ALTITUD: 1834   <br>- FECHA_ALTA: 19950324000000.000         <br>- FECHA_CAMB: 20130313110800.000   <br>- NOMBRE_DIR: RAYMUNDO SERRANO VALADEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.571435,21.060352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.177</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0146S   <br>- NOMBRE_CT: BIBLIOTECA DE LA PREPARATORIA NOCTURNA DE LEON UNIVERSIDAD DE GUANAJUATO   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD PUENTE MILENIO NUM. 1001   <br>- COLONIA: FRACCIONAMIENTO DEL PREDIO DE SAN CARLOS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37670   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1116667H   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.571435   <br>- LATITUD: 21.060352   <br>- ALTITUD: 1834   <br>- FECHA_ALTA: 19950324000000.000         <br>- FECHA_CAMB: 20130313110800.000   <br>- NOMBRE_DIR: RAYMUNDO SERRANO VALADEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.571435,21.060352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.181</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0149P   <br>- NOMBRE_CT: BIBLIOTECA DEL CENTRO DE BACHILLERATO TECNOLOGICO INDUSTRIAL Y DE SERVICIOS NUM.   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 0   <br>- DEP_NORMT: TI   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 11   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: PROLONGACION AVELLANO S/N   <br>- COLONIA: FRACCIONAMIENTO SAN JERONIMO   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37140   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100969H   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.67382   <br>- LATITUD: 21.15494   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19980501000000.000         <br>- FECHA_CAMB: 20111018120500.000   <br>- NOMBRE_DIR: FELIPE DE JESUS RIVERA LEON         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.67382,21.15494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.221</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0178K   <br>- NOMBRE_CT: BIBLIOTECA DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: TC   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 26   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: VICENTE GONZALEZ DEL CASTILLO NUM. 438   <br>- COLONIA: LAS HILAMAS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37400   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1109878B   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.73333   <br>- LATITUD: 21.10151   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20030331000000.000         <br>- FECHA_CAMB: 20111018125200.000   <br>- NOMBRE_DIR: JUAN JOSE RUVALCABA MARTINEZ   <br>- CORREO_ELE: cecytegsjb@prodigy.net.mx   <br>- PAGINA_WEB: http://cecyteg.guanajuato.gob.mx   <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.73333,21.10151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.222</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBE0178K   <br>- NOMBRE_CT: BIBLIOTECA DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: TC   <br>- SERVICIO: 3   <br>- SOSTENIMIE: 26   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: VICENTE GONZALEZ DEL CASTILLO NUM. 438   <br>- COLONIA: LAS HILAMAS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37400   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1109878B   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.73333   <br>- LATITUD: 21.10151   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20030331000000.000         <br>- FECHA_CAMB: 20111018125200.000   <br>- NOMBRE_DIR: JUAN JOSE RUVALCABA MARTINEZ   <br>- CORREO_ELE: cecytegsjb@prodigy.net.mx   <br>- PAGINA_WEB: http://cecyteg.guanajuato.gob.mx   <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Atiende el Nivel de Media Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.73333,21.10151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.311</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0018T   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL IGNACIO GARCIA TELLEZ   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 0   <br>- DEP_NORMT: BI   <br>- SERVICIO: 20   <br>- SOSTENIMIE: 11   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: PROLONGACION DONATO GUERRA NUM. 206   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100706K   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.67867   <br>- LATITUD: 21.12318   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19851029000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: MA. DEL CARMEN RIOS FALCON         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.67867,21.12318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.312</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0018T   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL IGNACIO GARCIA TELLEZ   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 0   <br>- DEP_NORMT: BI   <br>- SERVICIO: 20   <br>- SOSTENIMIE: 11   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: PROLONGACION DONATO GUERRA NUM. 206   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100706K   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.67867   <br>- LATITUD: 21.12318   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19851029000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: MA. DEL CARMEN RIOS FALCON         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.67867,21.12318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.340</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0039F   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL DANIEL GONZALEZ NEGRETE   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD MARIANO ESCOBEDO NUM. 1801 PONIENTE   <br>- COLONIA: LOMA BONITA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100726X   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.69767   <br>- LATITUD: 21.1158   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881130000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: SILVIA CRISTINA TOVAR ELIAS         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.69767,21.1158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.425</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0137G   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPIAL TIMOTEO LOZANO MARTINEZ NUM. 6412   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NE   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: SOL NUM. 101 PONIENTE   <br>- COLONIA: VALLE DEL SOL   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37140   <br>- TELEFONO: 0   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100781H   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66785   <br>- LATITUD: 21.1598   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19960322000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: ANTONIO HURTADO A.         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66785,21.1598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.426</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0137G   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPIAL TIMOTEO LOZANO MARTINEZ NUM. 6412   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NE   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: SOL NUM. 101 PONIENTE   <br>- COLONIA: VALLE DEL SOL   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37140   <br>- TELEFONO: 0   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100781H   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66785   <br>- LATITUD: 21.1598   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19960322000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: ANTONIO HURTADO A.         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66785,21.1598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.427</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0138F   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPIAL NICOLAS RANGEL NUM. 6415   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NE   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: MAR CANTABRICO S/N   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37520   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100782G   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.6582   <br>- LATITUD: 21.09195   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19960322000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: SARA PATRICIA WINKLER DOMINGUEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.6582,21.09195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.428</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0138F   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPIAL NICOLAS RANGEL NUM. 6415   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NE   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: MAR CANTABRICO S/N   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37520   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100782G   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.6582   <br>- LATITUD: 21.09195   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19960322000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: SARA PATRICIA WINKLER DOMINGUEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.6582,21.09195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.429</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0139E   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPIAL AURELIO LUIS GALLARDO NUM. 6414   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NE   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: ROSSINI S/N ESQUINA CON NOGAL   <br>- COLONIA: LAS ARBOLEDAS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37480   <br>- TELEFONO: 0   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100783F   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.6665   <br>- LATITUD: 21.10286   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19960322000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: LEONCIO HERNANDEZ MELENDEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.6665,21.10286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.430</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0140U   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPIAL MARIA ESTHER VALTIERRA A. NUM. 6820   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NE   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: POTASIO NUM. 1301 VALLE DE SEÑORA SEGUNDA SECCION   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37205   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100784E   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.652888   <br>- LATITUD: 21.16018   <br>- ALTITUD: 1832   <br>- FECHA_ALTA: 19960322000000.000         <br>- FECHA_CAMB: 20111110131500.000   <br>- NOMBRE_DIR: MA. DEL ROSARIO JARAMILLO BLANCO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.652888,21.16018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.440</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0149L   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: LOZA DE LOS PADRES   <br>- COLONIA: LOZA DE LOS PADRES   <br>- CVE_LOC: 358   <br>- DESCR_LOC: LOZA DE LOS PADRES   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: 0   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 2875   <br>- CVE_INMUE: 1100793E   <br>- INMUEBLE: SI   <br>- MARG_LOC: Alto   <br>- LONGITUD: -101.54965   <br>- LATITUD: 21.07   <br>- ALTITUD: 1860   <br>- FECHA_ALTA: 20010525000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: MA. DE LOURDES MENDEZ TOVAR         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.54965,21.07,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.441</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0150A   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL CASA DE LA JUVENTUD   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: PURISIMA NUM. 502   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37320   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100794D   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.69012   <br>- LATITUD: 21.13342   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20010525000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: ANA MARIA DEL PILAR VILLAGOMEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.69012,21.13342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.442</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0151Z   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL MARCOS F. AGUAYO DURAN   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: ALLENDE S/N CENTRO COMERCIAL LOCAL 177 Y 178   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37320   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100795C   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68372   <br>- LATITUD: 21.13187   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20010525000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: LUCIA ROMO RAMIREZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68372,21.13187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.443</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0152Z   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL DEL IMSS   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 6   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 31   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD LOPEZ MATEOS S/N   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100796B   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68608   <br>- LATITUD: 21.13793   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20010525000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: MA. DE LOS ANGELES ANDA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública IMSS]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68608,21.13793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.444</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0153Y   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL OCTAVIO PAZ   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: FONTANEROS NUM. 301   <br>- COLONIA: HACIENDA ECHEVESTE   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37460   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100797A   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66783   <br>- LATITUD: 21.17578   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20010525000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: JOSE HUGO CARRERA HERNANDEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66783,21.17578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.461</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0169Z   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL EFREN HERNANDEZ   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD DELTA S/N   <br>- COLONIA: FRACCIONAMIENTO VALLE DEL JEREZ II   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37530   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100813E   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.63353   <br>- LATITUD: 21.07915   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20041129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: LUIS FERNANDO VAZQUEZ A.         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.63353,21.07915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.470</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0178G   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL JUAN RULFO   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD MARIANO ESCOBEDO NUM. 4918   <br>- COLONIA: SATELITE   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1116870X   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.73238   <br>- LATITUD: 21.11589   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20060117000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: ERIKA DEL ROCIO LOPEZ GUTIERREZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.73238,21.11589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.476</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0184R   <br>- NOMBRE_CT: BIBLIOTECA DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 21   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD TELLEZ CRUCES S/N ESQUINA CON PASCUAL HURTAZA   <br>- COLONIA: LEON 1   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37235   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1109866E   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.63609   <br>- LATITUD: 21.14701   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20060223000000.000         <br>- FECHA_CAMB: 20111018123200.000   <br>- NOMBRE_DIR: ULISES HUMBERTO OROZCO RUIZ   <br>- CORREO_ELE: leon1@cecyteg.edu.mx   <br>- PAGINA_WEB: http://leon.cecyteg.edu.mx   <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.63609,21.14701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.487</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0195X   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL WIGBERTO JIMENEZ MORENO   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 21   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: PROLONGACION CALZADA DE LOS HEROES NUM. 308   <br>- COLONIA: LA MARTINICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37500   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100137K   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66496   <br>- LATITUD: 21.1177   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20070206111500.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: GILDA A. NOGUEROLA FLORES         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66496,21.1177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.498</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0202Q   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL SANTA RITA DE LOS NARANJOS   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: OBRERO MUNDIAL NUM. 302   <br>- COLONIA: SANTA RITA DE LOS NARANJOS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37440   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1108006B   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.707799   <br>- LATITUD: 21.104966   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20090121124500.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: GABRIEL DE LA BARRERA ROMO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.707799,21.104966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.499</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0202Q   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL SANTA RITA DE LOS NARANJOS   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: OBRERO MUNDIAL NUM. 302   <br>- COLONIA: SANTA RITA DE LOS NARANJOS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37440   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1108006B   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.707799   <br>- LATITUD: 21.104966   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20090121124500.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: GABRIEL DE LA BARRERA ROMO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.707799,21.104966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.500</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0203P   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL ERMITA   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: DELOS NUM. 201   <br>- COLONIA: ERMITA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37358   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1108007A   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.733704   <br>- LATITUD: 21.150603   <br>- ALTITUD: 2005   <br>- FECHA_ALTA: 20090121125100.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: RAMON HERNANDEZ HERNANDEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.733704,21.150603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.501</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0204O   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL ALFONSO VILLASEÑOR SOHLE   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: CONSTELACION DE SAN JUAN NUM. 206   <br>- COLONIA: VILLAS DE SAN JUAN II SECCION   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37295   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1108008K   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.585876   <br>- LATITUD: 21.102489   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20090121125900.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: GERARDO MARES RODRIGUEZ   <br>- CORREO_ELE: a.villasenor@hotmail.com.mx      <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.585876,21.102489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.509</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0211Y   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL PERIODISTAS MEXICANOS   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: MANUEL CRESCENCIO REJON NUM. 207   <br>- COLONIA: PERIODISTAS MEXICANOS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: 0   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1109676X   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.750874   <br>- LATITUD: 21.09338   <br>- ALTITUD: 1893   <br>- FECHA_ALTA: 20100513135800.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: PENDIENTE         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.750874,21.09338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.510</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0212X   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL CANTERITAS DE ECHEVESTE   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AVENIDA CIRCUITO DOVELA NUM. 205   <br>- COLONIA: CANTERITAS DE ECHEVESTE   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37100   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1109678G   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.669854   <br>- LATITUD: 21.182022   <br>- ALTITUD: 1844   <br>- FECHA_ALTA: 20100513141100.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: PENDIENTE         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.669854,21.182022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.511</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0213W   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL BICENTENARIO DE LA INDEPENDENCIA   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: WIGBERTO JIMENEZ MORENO NUM. 707   <br>- COLONIA: BUENOS AIRES   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37460   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1109679F   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.671993   <br>- LATITUD: 21.095328   <br>- ALTITUD: 1790   <br>- FECHA_ALTA: 20100513142200.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: BERTHA GARCIA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.671993,21.095328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.543</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBI0243Q   <br>- NOMBRE_CT: BIBLIOTECA PUBLICA MUNICIPAL EMMA GODOY   <br>- CLAVE_TURN: 4   <br>- TURNO: Discontinuo   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: BI   <br>- SERVICIO: 21   <br>- SOSTENIMIE: 22   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: VIA CAMPOS OTOÑALES S/N   <br>- COLONIA: AGUA AZUL   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37297   <br>- TELEFONO: 0   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1111445D   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.616236   <br>- LATITUD: 21.105322   <br>- ALTITUD: 1820   <br>- FECHA_ALTA: 20120711143100.000         <br>- FECHA_CAMB: 20120723131900.000   <br>- NOMBRE_DIR: MARIANA GUTIERREZ DE VELAZCO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Pública Municipal]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.616236,21.105322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.564</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0019Z   <br>- NOMBRE_CT: BIBLIOTECA LA DOLORES GALLO FRAUSTO-INSTITUTO TECNOLOGICO DE LEON   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 0   <br>- DEP_NORMT: IT   <br>- SERVICIO: 10   <br>- SOSTENIMIE: 11   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AVENIDA TECNOLOGICO S/N   <br>- COLONIA: TECNOLOGICO LEON NORTE   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100838X   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.62712   <br>- LATITUD: 21.109057   <br>- ALTITUD: 1813   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: ELIZABETH SALAZAR HERNANDEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Central de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.62712,21.109057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.565</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0019Z   <br>- NOMBRE_CT: BIBLIOTECA LA DOLORES GALLO FRAUSTO-INSTITUTO TECNOLOGICO DE LEON   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 0   <br>- DEP_NORMT: IT   <br>- SERVICIO: 10   <br>- SOSTENIMIE: 11   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AVENIDA TECNOLOGICO S/N   <br>- COLONIA: TECNOLOGICO LEON NORTE   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37000   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100838X   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.62712   <br>- LATITUD: 21.109057   <br>- ALTITUD: 1813   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: ELIZABETH SALAZAR HERNANDEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Central de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.62712,21.109057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.566</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0020O   <br>- NOMBRE_CT: BIBLIOTECA UNIDAD SEAD NUM. 113   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 1   <br>- DEP_NORMT: UP   <br>- SERVICIO: 11   <br>- SOSTENIMIE: 24   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: TLACOPAN NUM. 1002   <br>- COLONIA: RINCONADA DEL SUR   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37536   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1114258D   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.65285   <br>- LATITUD: 21.09103   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: ROSSANA DOLORES MATULA AYALA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Escuela o Facultad de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.65285,21.09103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.567</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0020O   <br>- NOMBRE_CT: BIBLIOTECA UNIDAD SEAD NUM. 113   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 1   <br>- DEP_NORMT: UP   <br>- SERVICIO: 11   <br>- SOSTENIMIE: 24   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: TLACOPAN NUM. 1002   <br>- COLONIA: RINCONADA DEL SUR   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37536   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1114258D   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.65285   <br>- LATITUD: 21.09103   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: ROSSANA DOLORES MATULA AYALA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Escuela o Facultad de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.65285,21.09103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.568</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0021N   <br>- NOMBRE_CT: BIBLIOTECA DE LA FACULTAD DE ENFERMERIA UNIVERSIDAD DE GUANAJUATO   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 11   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD PUENTE MILENIO NUM. 1001   <br>- COLONIA: FRACCIONAMIENTO DEL PREDIO DE SAN CARLOS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37670   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1116667H   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.571435   <br>- LATITUD: 21.060352   <br>- ALTITUD: 1834   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130313110800.000   <br>- NOMBRE_DIR: BLANCA ESTHER SANCHEZ GUERRERO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Escuela o Facultad de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.571435,21.060352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.569</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0021N   <br>- NOMBRE_CT: BIBLIOTECA DE LA FACULTAD DE ENFERMERIA UNIVERSIDAD DE GUANAJUATO   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 11   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD PUENTE MILENIO NUM. 1001   <br>- COLONIA: FRACCIONAMIENTO DEL PREDIO DE SAN CARLOS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37670   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1116667H   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.571435   <br>- LATITUD: 21.060352   <br>- ALTITUD: 1834   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20130313110800.000   <br>- NOMBRE_DIR: BLANCA ESTHER SANCHEZ GUERRERO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Escuela o Facultad de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.571435,21.060352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.570</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0075R   <br>- NOMBRE_CT: BIBLIOTECA FACULTAD DE MEDICINA DE LEON UNIVERSIDAD DE LEON   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 11   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: 20 DE ENERO NUM. 929   <br>- COLONIA: OBREGON   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37320   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1109819G   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68034   <br>- LATITUD: 21.13367   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881130000000.000         <br>- FECHA_CAMB: 20130313102100.000   <br>- NOMBRE_DIR: FRANCISCO JAVIER GUERRERO MARTINEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Escuela o Facultad de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68034,21.13367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.571</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0075R   <br>- NOMBRE_CT: BIBLIOTECA FACULTAD DE MEDICINA DE LEON UNIVERSIDAD DE LEON   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 11   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: 20 DE ENERO NUM. 929   <br>- COLONIA: OBREGON   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37320   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1109819G   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68034   <br>- LATITUD: 21.13367   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881130000000.000         <br>- FECHA_CAMB: 20130313102100.000   <br>- NOMBRE_DIR: FRANCISCO JAVIER GUERRERO MARTINEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Escuela o Facultad de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68034,21.13367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.572</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0077P   <br>- NOMBRE_CT: BIBLIOTECA DE LA ESCUELA NORMAL INSTITUTO AMERICA   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NP   <br>- SERVICIO: 11   <br>- SOSTENIMIE: 61   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: CAMINO JESUS MARIA S/N FRACCIONES ALFARO   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37480   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100137H   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.62258   <br>- LATITUD: 21.1263   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19900509000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: MA. CONCEPCION FLORES M.         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Escuela o Facultad de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.62258,21.1263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.573</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0078O   <br>- NOMBRE_CT: BIBLIOTECA DE LA ESCUELA NORMAL OFICIAL   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NE   <br>- SERVICIO: 11   <br>- SOSTENIMIE: 21   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: FRAY LUIS DE HERRERA S/N ESQUINA LUNA S/N   <br>- COLONIA: FRACCIONAMIENTO VILLA INSURGENTES   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37260   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100574K   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.66653   <br>- LATITUD: 21.14781   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19900509000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: NICOLAS VILLANUEVA O.         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Escuela o Facultad de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.66653,21.14781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.583</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0121M   <br>- NOMBRE_CT: BIBLIOTECA DEL INSTITUTO DE INVESTIGACION SOBRE EL TRABAJO   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 12   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AVENIDA CERRO GORDO S/N   <br>- COLONIA: LOMAS DEL CAMPESTRE   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37150   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100854K   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.71063   <br>- LATITUD: 21.16537   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19950324000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: CARLOS MENDIOLA ANDA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Instituto o Centro de Investigación Educ. Sup.]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.71063,21.16537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.584</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0121M   <br>- NOMBRE_CT: BIBLIOTECA DEL INSTITUTO DE INVESTIGACION SOBRE EL TRABAJO   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 12   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: AVENIDA CERRO GORDO S/N   <br>- COLONIA: LOMAS DEL CAMPESTRE   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37150   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100854K   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.71063   <br>- LATITUD: 21.16537   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19950324000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: CARLOS MENDIOLA ANDA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Instituto o Centro de Investigación Educ. Sup.]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.71063,21.16537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.611</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0145W   <br>- NOMBRE_CT: BIBLIOTECA DEL INSTITUTO DE FISICA   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 11   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: LOMAS DEL BOSQUE NUM. 103   <br>- COLONIA: LOMAS DEL CAMPESTRE   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37150   <br>- TELEFONO: 0   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1107584D   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.70583   <br>- LATITUD: 21.15385   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20080508093100.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: OSCAR MIGUEL SABIDO MORENO         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Escuela o Facultad de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.70583,21.15385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.620</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0152F   <br>- NOMBRE_CT: BIBLIOTECA DE ESTUDIOS CULTURALES, CAMPUS LEON UNIVERSIDAD DE GUANAJUATO   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 11   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: PROLONGACION CALZADA HEROES NUM. 308 ESQUINA BOULEVARD VASCO DE QUIROG   <br>- COLONIA: LA MARTINICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37500   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1111569A   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.660798   <br>- LATITUD: 21.115814   <br>- ALTITUD: 1801   <br>- FECHA_ALTA: 20130312140000.000            <br>- NOMBRE_DIR: LUIS GABINO LANDEROS ARANDA         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Escuela o Facultad de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.660798,21.115814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.621</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0153E   <br>- NOMBRE_CT: BIBLIOTECA DIVISION DE CIENCIAS SOCIALES Y HUMANIDADES, SEDE SAN CARLOS, CAMPUS LEON   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 11   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD PUENTE MILENIO NUM. 1001   <br>- COLONIA: FRACCIONAMIENTO DEL PREDIO DE SAN CARLOS   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37670   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1116667H   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.571435   <br>- LATITUD: 21.060352   <br>- ALTITUD: 1834   <br>- FECHA_ALTA: 20130312142500.000         <br>- FECHA_CAMB: 20130313110800.000   <br>- NOMBRE_DIR: LUIS GABINO LANDEROS ARANDA   <br>- CORREO_ELE: bibliosol_cl@ugto.mx      <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Escuela o Facultad de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.571435,21.060352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.622</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBS0154D   <br>- NOMBRE_CT: BIBLIOTECA DE CIENCIAS MEDICAS, DIVISION DE CIENCIAS DE LA SALUD, CAMPUS LEON, UNIVERSIDAD DE GTO.   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 7   <br>- DEP_NORMT: NU   <br>- SERVICIO: 11   <br>- SOSTENIMIE: 51   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: 20 DE ENERO NUM. 929   <br>- COLONIA: OBREGON   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37320   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1109819G   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68034   <br>- LATITUD: 21.13367   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 20130313101900.000         <br>- FECHA_CAMB: 20130313102100.000   <br>- NOMBRE_DIR: PENDIENTE         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca de Escuela o Facultad de Educ. Superior]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68034,21.13367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.627</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBZ0001J   <br>- NOMBRE_CT: BIBLIOTECA ESPACIALIZADA DE LA CLINICA HOSPITAL 11-IMSS   <br>- CLAVE_TURN: 2   <br>- TURNO: Vespertino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 6   <br>- DEP_NORMT: OB   <br>- SERVICIO: 44   <br>- SOSTENIMIE: 31   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD ADOLFO LOPEZ MATEOS S/N Y PASEO DE LOS INSURGENTES   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37160   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100877F   <br>- INMUEBLE: NO   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68715   <br>- LATITUD: 21.14007   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: BERTHA RAQUEL VALADEZ GONZALEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Especializada en Ciencias de la Salud IMSS]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68715,21.14007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bibliotecas.628</name>
+        <description><![CDATA[bibliotecas        <br>- CLAVE_CT: 11BBZ0001J   <br>- NOMBRE_CT: BIBLIOTECA ESPACIALIZADA DE LA CLINICA HOSPITAL 11-IMSS   <br>- CLAVE_TURN: 1   <br>- TURNO: Matutino   <br>- ZONA_ESCOL: 888   <br>- SECTOR: 88   <br>- DEP__ADMVA: 6   <br>- DEP_NORMT: OB   <br>- SERVICIO: 44   <br>- SOSTENIMIE: 31   <br>- STATUS_CT: 1   <br>- DESCRIPC_1: Activo   <br>- DOMICILIO: BOULEVARD ADOLFO LOPEZ MATEOS S/N Y PASEO DE LOS INSURGENTES   <br>- COLONIA: NO APLICA   <br>- CVE_LOC: 1   <br>- DESCR_LOC: LEON DE LOS ALDAMA   <br>- CVE_MUN: 20   <br>- DESCR_MUN: León   <br>- CP: 37160   <br>- TELEFONO: -2147483648   <br>- CVE_REGION: 3   <br>- REGION: 3 León III León   <br>- CAT_POB: U   <br>- CAT_POB0: U Urbana   <br>- HABITANTES: 1238962   <br>- CVE_INMUE: 1100877F   <br>- INMUEBLE: SI   <br>- MARG_LOC: Bajo   <br>- LONGITUD: -101.68715   <br>- LATITUD: 21.14007   <br>- ALTITUD: 1800   <br>- FECHA_ALTA: 19881129000000.000         <br>- FECHA_CAMB: 20100528143400.000   <br>- NOMBRE_DIR: BERTHA RAQUEL VALADEZ GONZALEZ         <br>- NIVEL: BIBLIOTECAS   <br>- MODALIDAD: Biblioteca Especializada en Ciencias de la Salud IMSS]]></description>
+        <styleUrl>#icon-1526-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -101.68715,21.14007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
